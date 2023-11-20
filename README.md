@@ -34,7 +34,7 @@ Requirements:
 - Access the host computer share with the Virtual Machine
 - Copy and install the driver
 - Reboot the Windows 7 Virtual Machine
-- Share Belkin n52te with the Virtual Machine
+- Share Belkin n52te with the Virtual Machine in USB Settings (Lower devices menu)
 - Program the device with the n52te editor
 - Upload configurations and use it
 
