@@ -12,7 +12,7 @@ Requirements:
 - A folder shared with this VM to transfer the driver
 - Last Belkin n52te driver/controller V2.1.2 (in this repo)
 
-## How to do, what to do
+## How to do and what to do
 
 - Create a new VM in VM Ware
 - Install Windows 7 or 8 (32 bits Windows 7 recommended)
