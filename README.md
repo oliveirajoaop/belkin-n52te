@@ -1,4 +1,4 @@
-# Belkin-n52te
+# Belkin n52te programming/reprogramming
 
 Since this device is no longer supported in the most recent OS the best way of reprograming this keyboard/keypad is to install an older OS like Windows 7 or 8 and play with it.
 
