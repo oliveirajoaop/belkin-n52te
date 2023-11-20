@@ -6,7 +6,7 @@ Since this device is no longer supported in the most recent OS the best way of r
 
 Requirements:
 - [Oracle VirtualBox](https://download.virtualbox.org/virtualbox/7.0.12/VirtualBox-7.0.12-159484-Win.exe).
-- Guest additions.
+- [Guest additions](https://download.virtualbox.org/virtualbox/7.0.12/Oracle_VM_VirtualBox_Extension_Pack-7.0.12.vbox-extpack).
 - A functional Virtual Machine with Windows 7 32 bits.
   - Microsoft no longer have it available, [get into pc](https://getintopc.com/softwares/operating-systems/windows-7-professional-sp1-multilingual-april-2023-free-download-9753788/?id=000993163391) could be a source for it, you should have a license to use it.
 - A folder shared with this VM to transfer the driver.
