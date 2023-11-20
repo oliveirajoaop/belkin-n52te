@@ -23,7 +23,7 @@ Requirements:
   - Storage
     - Controller: SATA
       - SATA Port 0: Windows7.iso
-      - SATA Port 1: Windows 32.vdi (10Gb)
+      - SATA Port 1: Windows 32.vdi (20Gb)
   - USB
     - Enable USB Controller selected
     - USB 1.1 (OHCI) Controller
