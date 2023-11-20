@@ -10,7 +10,7 @@ Requirements:
 - A functional Virtual Machine with Windows 7 32 bits.
   - Microsoft no longer have it available, [get into pc](https://getintopc.com/softwares/operating-systems/windows-7-professional-sp1-multilingual-april-2023-free-download-9753788/?id=000993163391) could be a source for it, you should have a license to use it.
 - A folder shared with this VM to transfer the driver.
-- Last Belkin n52te driver/controller V2.1.2 (in this repo).
+- Last Belkin n52te driver/controller V2.1.2 (available in this repo).
 
 ## How to do and what to do
 
