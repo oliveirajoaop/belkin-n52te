@@ -36,7 +36,7 @@ Requirements:
 - Reboot the Windows 7 Virtual Machine
 - Share Belkin n52te with the Virtual Machine in USB Settings (Lower devices menu)
 - Program the device with the n52te editor
-- Upload configurations and use it
+- Upload configurations and use it in your main computer.
 
 ## Help
 
